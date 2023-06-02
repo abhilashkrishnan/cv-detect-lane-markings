@@ -1,4 +1,4 @@
-# Detect Lane Markings using OpenCV
+# Detect Lane Markings using Computer Vision
 
 Finding road markings is the first step toward building a self-driving car. If a camera sensor
 can detect road markings correctly, it can follow the lanes and drive safely.
