@@ -17,7 +17,7 @@ The main steps for detecting road markings are as follows:
 ```
 
 ## Input Image
-![Input Image](test_image.png)
+![Input Image](test_image.jpg)
 
 ## Result Image
-![Result Image](result_image.png)
+![Result Image](result_image.jpg)
